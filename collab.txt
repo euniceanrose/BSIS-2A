@@ -1,3 +1,5 @@
 hello owner
 hi collaborator
-i added a line as an owner
+i added a line a owner
+i added a line as a collaborator
+
